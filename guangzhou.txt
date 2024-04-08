@@ -617,7 +617,7 @@ UFC格斗㉑,https://txmov2.a.yximgs.com/mediacloud/acfun/acfun_video/8983d8c926
 泰之战⑦,https://txmov2.a.yximgs.com/mediacloud/acfun/acfun_video/88bdbc14d3dc1d91-c6662fa18365a97c8b74884f4b46c785-hls_720p_2.m3u8?pkey=ABAv3Yy3BJc67SZRCdTebHV0amKct-vhu29SSWYf_P7_UrYqPOKzh7MPjOaxb-yeUxxsOLCaiLbmj1woFbnBiKpnn7VA5hHlB3bnIY_Z1vbX3M6NNbZ7GdJzZF92LBOGXBo_237hvP0ykpF9UNqDw_jIKm5tsz5TWHnIz7afliuTWAIwrUzCQAY4Gtj4HAltzfcx-_JTnU6oW0jfVCrPP1KANjHdda-wHSfPhrFgNgZim9Rh00Xi7Ab5Wv4hxTfzxq8&safety_id=AALufSf0OHCmkfb0zHi92cpK
 
 
-🇹🇼全球频道,#genre#
+全球频道,#genre#
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 中國環球,http://live.cgtn.com/500/prog_index.m3u8
 华文一台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
