@@ -75,6 +75,19 @@ ST老人频道,#genre#
 15音樂,http://test.jdshipin.com:8880/ysp.php?id=cctv15
 16奧林匹克,http://test.jdshipin.com:8880/ysp.php?id=cctv16
 17農業農村,http://test.jdshipin.com:8880/ysp.php?id=cctv17
+
+ 👉👉九点半频道👉👉,#genre#
+⑥春盈天下专线,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+⑥香港21:30一七,https://ccc.kmijhnd.com/live/629.m3u8
+⑥香港21:30四九,https://yyy.mmzj.net/lives/123678.flv
+@新澳21:30彩家,https://blxmmo.ldinq.com/live/new33666mo.m3u8
+@新澳21:30四九,https://play666.macau-lhc.live/live/mosixmark.flv
+@新澳21:30官方,https://play888.00853lhc.live/live/mosixmark.flv
+@老澳21:32彩家,https://vdm6-hw.qunleniuniu.com/live/2032-2.flv
+@老澳21:32播放,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
+@老澳21:32开始,https://aa.jmied.com/aa/aa.flv?auth_key=1661059701-0-0-18edbe2ace26cc97f5e86aaee951497e
+@老澳21:32官方,https://vdm6-ali.oujinghb.com/live/2032-2.flv
+
 🇨🇳央视频道,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://112.17.52.84/PLTV/88888888/224/3221233701/index.m3u8
@@ -199,6 +212,7 @@ CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw274
 [电信]湖南卫视,http://cd.sy012.com:4000/rtp/232.0.0.69:8560
 [电信]广东体育,http://www.zz49.top:4022/rtp/239.77.0.6:5146
 [电信]广东卫视,http://cd.sy012.com:4000/rtp/232.0.0.72:8580
+
 📡咪咕移动,#genre#
 CCTV1,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
 CCTV1,http://39.134.66.66/PLTV/88888888/224/3221225706/index.m3u8
