@@ -40,7 +40,7 @@ ST老人频道,#genre#
  [1080P] 中文,http://27.154.214.56:8888/rtp/239.61.2.184:9092
  [1080P] 资讯,http://27.154.214.56:8888/rtp/239.61.2.183:9086
 
-电信央视,#genre#
+🇨🇳电信央视,#genre#
 [电信] CCTV-1,http://cd.sy012.com:4000/rtp/232.0.0.1:8628
 [电信] CCTV-2,http://cd.sy012.com:4000/rtp/232.0.0.2:8738
 [电信] CCTV-3,http://cd.sy012.com:4000/rtp/232.0.0.163:9330
@@ -57,7 +57,24 @@ ST老人频道,#genre#
 [电信]CCTV-14,http://cd.sy012.com:4000/rtp/232.0.0.14:8524
 [电信]CCTV-15,http://cd.sy012.com:4000/rtp/232.0.0.41:8526
 [电信]CCTV-5+,http://cd.sy012.com:4000/rtp/232.0.0.92:8502
-
+1綜合,http://test.jdshipin.com:8880/ysp.php?id=cctv1
+2財經,http://test.jdshipin.com:8880/ysp.php?id=cctv2
+3綜藝,http://test.jdshipin.com:8880/ysp.php?id=cctv3
+4中文國際,http://test.jdshipin.com:8880/ysp.php?id=cctv4
+5體育,http://test.jdshipin.com:8880/ysp.php?id=cctv5
+5+體育賽事,http://test.jdshipin.com:8880/ysp.php?id=cctv5p
+6電影,http://test.jdshipin.com:8880/ysp.php?id=cctv6
+7國防軍事,http://test.jdshipin.com:8880/ysp.php?id=cctv7
+8電視劇,http://test.jdshipin.com:8880/ysp.php?id=cctv8
+9紀錄,http://test.jdshipin.com:8880/ysp.php?id=cctv9
+10科教,http://test.jdshipin.com:8880/ysp.php?id=cctv10
+11戲曲,http://test.jdshipin.com:8880/ysp.php?id=cctv11
+12社會與法,http://test.jdshipin.com:8880/ysp.php?id=cctv12
+13新聞,http://test.jdshipin.com:8880/ysp.php?id=cctv13
+14少兒,http://test.jdshipin.com:8880/ysp.php?id=cctv14
+15音樂,http://test.jdshipin.com:8880/ysp.php?id=cctv15
+16奧林匹克,http://test.jdshipin.com:8880/ysp.php?id=cctv16
+17農業農村,http://test.jdshipin.com:8880/ysp.php?id=cctv17
 🇨🇳央视频道,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://112.17.52.84/PLTV/88888888/224/3221233701/index.m3u8
