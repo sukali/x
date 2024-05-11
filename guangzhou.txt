@@ -1,7 +1,8 @@
 📺老人频道,#genre#
+赞赏码,https://gitee.com/sukali/live/raw/master/zsm.mp4
+
 小公园,http://gctxyc.liveplay.myqcloud.com/gc/bsszjs_1/index.m3u8?contentid=2820180516001 
 小公园,http://gctxyc.liveplay.myqcloud.com/gc/bsszjs_1_md.m3u8
-
 「联通」综合,http://211.97.63.3:801/hls/40/index.m3u8
 「联通」生活,http://211.97.63.3:801/hls/41/index.m3u8
 「联通」文旅,http://211.97.63.3:801/hls/39/index.m3u8
@@ -9,9 +10,15 @@
 「联通」生活,http://211.97.63.3:801/hls/82/index.m3u8
 「联通」文旅,http://211.97.63.3:801/hls/80/index.m3u8
 
-「移动」综合,http://hh.ttcc.asia:6006/rtp/239.21.0.98:3732
-「移动」生活,http://hh.ttcc.asia:6006/rtp/239.21.0.99:3736
-「移动」文旅,http://hh.ttcc.asia:6006/rtp/239.21.0.100:3740
+[移动1] 综合,http://hh.ttcc.asia:6006/rtp/239.21.0.98:3732
+[移动1] 生活,http://hh.ttcc.asia:6006/rtp/239.21.0.99:3736
+[移动1] 文旅,http://hh.ttcc.asia:6006/rtp/239.21.0.100:3740
+[移动2] 综合,http://120.234.5.28:6000/rtp/239.21.0.98:3732
+[移动2] 生活,http://120.234.5.28:6000/rtp/239.21.0.99:3736
+[移动2] 文旅,http://120.234.5.28:6000/rtp/239.21.0.100:3740
+[移动3] 综合,http://1b6467f415.iok.la:9931/tsfile/live/1131_1.m3u8
+[移动3] 生活,http://1b6467f415.iok.la:9931/tsfile/live/1132_1.m3u8
+[移动3] 文旅,http://1b6467f415.iok.la:9931/tsfile/live/1133_1.m3u8
 
 「电信1」综合,http://www.zz49.top:4022/rtp/239.253.43.45:5146
 「电信1」生活,http://www.zz49.top:4022/rtp/239.253.43.46:5146
@@ -19,14 +26,12 @@
 「电信1」综合,http://www.zz49.top:4022/rtp/239.77.1.130:5146
 「电信1」生活,http://www.zz49.top:4022/rtp/239.77.1.131:5146
 「电信1」文旅,http://www.zz49.top:4022/rtp/239.77.1.132:5146
-
 「电信2」综合,http://ddns.cyruslee.top:8888/rtp/239.253.43.45:5146
 「电信2」生活,http://ddns.cyruslee.top:8888/rtp/239.253.43.46:5146
 「电信2」文旅,http://ddns.cyruslee.top:8888/rtp/239.253.43.47:5146
 「电信2」综合,http://ddns.cyruslee.top:8888/rtp/239.77.1.130:5146
 「电信2」生活,http://ddns.cyruslee.top:8888/rtp/239.77.1.131:5146
 「电信2」文旅,http://ddns.cyruslee.top:8888/rtp/239.77.1.132:5146
-
 「电信3」综合,http://www.kitcc.cn:8887/rtp/239.253.43.45:5146
 「电信3」生活,http://www.kitcc.cn:8887/rtp/239.253.43.46:5146
 「电信3」文旅,http://www.kitcc.cn:8887/rtp/239.253.43.47:5146
@@ -34,16 +39,19 @@
 「电信3」生活,http://www.kitcc.cn:8887/rtp/239.77.1.131:5146
 「电信3」文旅,http://www.kitcc.cn:8887/rtp/239.77.1.132:5146
 
-「720P1」中文,http://43.141.130.51:8088/qitv.fengshows.cn/live/0701pcc72.flv
-「720P1」资讯,http://43.141.130.51:8088/qitv.fengshows.cn/live/0701pin72.flv
-「720P2」中文,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-「720P2」资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
- [720P3] 中文,http://223.109.210.49:8088/qitv.fengshows.cn/live/0701pcc72.flv
- [720P3] 资讯,http://223.109.210.49:8088/qitv.fengshows.cn/live/0701pin72.flv
- [1080P] 中文,http://27.154.214.56:8888/rtp/239.61.2.184:9092
- [1080P] 资讯,http://27.154.214.56:8888/rtp/239.61.2.183:9086
+[720P1] 中文,http://43.141.130.51:8088/qitv.fengshows.cn/live/0701pcc72.flv
+[720P1] 资讯,http://43.141.130.51:8088/qitv.fengshows.cn/live/0701pin72.flv
+[720P2] 中文,http://223.109.210.49:8088/qitv.fengshows.cn/live/0701pcc72.flv
+[720P2] 资讯,http://223.109.210.49:8088/qitv.fengshows.cn/live/0701pin72.flv
+[720P3] 中文,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+[720P3] 资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+[1080P1] 中文,http://27.154.214.56:8888/rtp/239.61.2.184:9092
+[1080P1] 资讯,http://27.154.214.56:8888/rtp/239.61.2.183:9086
+[1080P2] 中文,http://www.jeremyoto.com:82/rtp/233.50.200.191:5140
+[1080P2] 资讯,http://www.jeremyoto.com:82/rtp/233.50.200.192:5140
 
 🇨🇳电信央视,#genre#
+赞赏码,https://gitee.com/sukali/live/raw/master/zsm.mp4
 [电信] CCTV-1,http://cd.sy012.com:4000/rtp/232.0.0.1:8628
 [电信] CCTV-2,http://cd.sy012.com:4000/rtp/232.0.0.2:8738
 [电信] CCTV-3,http://cd.sy012.com:4000/rtp/232.0.0.163:9330
@@ -62,6 +70,7 @@
 [电信]CCTV-5+,http://cd.sy012.com:4000/rtp/232.0.0.92:8502
 
  👉九点半👉,#genre#
+赞赏码,https://gitee.com/sukali/live/raw/master/zsm.mp4
 ⑥春盈天下专线,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 ⑥香港21:30一七,https://ccc.kmijhnd.com/live/629.m3u8
 ⑥香港21:30四九,https://yyy.mmzj.net/lives/123678.flv
@@ -74,6 +83,7 @@
 @老澳21:32官方,https://vdm6-ali.oujinghb.com/live/2032-2.flv
 
 🌍卫视频道,#genre#
+赞赏码,https://gitee.com/sukali/live/raw/master/zsm.mp4
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广东卫视,http://221.2.36.34:8888/newlive/live/hls/21/live.m3u8
 广东卫视,http://221.213.43.82:8888/newlive/live/hls/21/live.m3u8
@@ -93,6 +103,7 @@
 摔跤格斗,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 📡咪咕移动,#genre#
+赞赏码,https://gitee.com/sukali/live/raw/master/zsm.mp4
 CCTV1,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
 CCTV1,http://39.134.66.66/PLTV/88888888/224/3221225706/index.m3u8
 CCTV2,http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
@@ -220,6 +231,7 @@ CGTN纪录,http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
 北京卡酷少儿,http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8
 
 全球频道,#genre#
+赞赏码,https://gitee.com/sukali/live/raw/master/zsm.mp4
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 中國環球,http://live.cgtn.com/500/prog_index.m3u8
 华文一台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
@@ -247,6 +259,7 @@ StarHD台,http://livestar.siliconweb.com/media/star1/star1.m3u8
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 动物世界,#genre#
+赞赏码,https://gitee.com/sukali/live/raw/master/zsm.mp4
 动物世界,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
 彩蛇之舞,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/002334474c7c4b8b98bad237a7bdeb7b/1200.m3u8
 蛇类大观园,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/414f84230ced4696af656a112385b72c/1200.m3u8
@@ -949,6 +962,7 @@ StarHD台,http://livestar.siliconweb.com/media/star1/star1.m3u8
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
 
 少儿动漫,#genre#
+赞赏码,https://gitee.com/sukali/live/raw/master/zsm.mp4
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
@@ -1893,6 +1907,7 @@ StarHD台,http://livestar.siliconweb.com/media/star1/star1.m3u8
 熊熊乐园52,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/23d304c091184090b3b6ceef8822a273/1200.m3u8
 
 广场舞,#genre#
+赞赏码,https://gitee.com/sukali/live/raw/master/zsm.mp4
 看花不是花,https://alimov2.a.kwimgs.com/upic/2023/01/20/19/BMjAyMzAxMjAxOTU1NTdfOTU2MzA3MDg4Xzk0MTAyMDU3ODM3XzJfMw==_b_B1f0892e3e65467590dd31879d1991b0e.mp4?clientCacheKey=3xwqt7nphbwb7g4_b.mp4&tt=b&di=2471c4bc&bp=10000
 时间如流水,https://txmov2.a.kwimgs.com/upic/2023/01/16/03/BMjAyMzAxMTYwMzM0MzhfOTU2MzA3MDg4XzkzNzExNDYxODQxXzJfMw==_b_B88dbbfce4aba9a5c5c73b2784f0f6ca0.mp4?clientCacheKey=3xa7umukmq4a8q2_b.mp4&tt=b&di=2471a291&bp=10000
 谈情愁,https://txmov2.a.kwimgs.com/upic/2023/01/12/06/BMjAyMzAxMTIwNjMzNDBfOTU2MzA3MDg4XzkzMzUwNTI1OTA1XzJfMw==_b_B3c5400c39404a542c0949d563f35e665.mp4?clientCacheKey=3xcek96j7gkkgga_b.mp4&tt=b&di=2471c2ba&bp=10000
