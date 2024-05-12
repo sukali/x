@@ -397,30 +397,6 @@ TVBS新闻,http://se.xvvx.eu.org/ublive.php?id=2
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 
-🏫科教频道,#genre#
-Discovery,http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
-Discovery,http://ott.watch/stream/E9LDH2ZCN7/177.m3u8
-NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
-NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
-NASA TV,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-世界地理,http://110.178.52.190:8082/udp/239.1.1.99:8099
-世界地理,http://110.178.52.190:8085/udp/239.1.1.99:8099
-世界地理,http://60.6.255.8:2180/live/sjdl/index.m3u8
-世界地理,https://pi.0472.org/live/sjdl.m3u8?token=162210
-兵器科技,http://110.178.52.190:8082/udp/239.1.1.97:8097
-兵器科技,http://110.178.52.190:8085/udp/239.1.1.97:8097
-兵器科技,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
-兵器科技,http://60.6.255.8:2180/live/gfjs/index.m3u8
-兵器科技,https://pi.0472.org/live/bqkj.m3u8?token=162210
-历史频道,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/231/index.m3u8
-探索频道,http://se.xvvx.eu.org/ublive.php?id=1035
-美食星球,http://se.xvvx.eu.org/ublive.php?id=1360
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-动物星球,http://se.xvvx.eu.org/ublive.php?id=367
-动物星球,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-国家地理,http://se.xvvx.eu.org/ublive.php?id=302
-
 🏟️体育频道,#genre#
 JJ斗地主,http://hlsa-akm.douyucdn.cn/488743rAHScWyyII_4000.m3u8
 JJ斗地主,https://tc-tct.douyucdn2.cn/0/488743rAHScWyyII_4000.m3u8
@@ -497,7 +473,6 @@ JJ斗地主,https://tv.iill.top/douyu/488743
 斯诺克体育,http://cfss.cc/cdn/hy/20072621.flv
 斯诺克体育,https://live.metshop.top/huya/20072621
 斯诺克体育,https://www.goodiptv.club/huya/20072621
-
 
 🌍港台2,#genre#
 AXN,http://wanjiatv.net/Smartv.php?id=axn_twn
@@ -1310,7 +1285,6 @@ StarHD台,http://livestar.siliconweb.com/media/star1/star1.m3u8
 鳄鱼王漂流记，https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8da4a365db75455cb0c15bd7681b57fc/1200.m3u8
 黑猩猩的丛林法则,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ff5278105445e1a9d5651372faf47e/1200.m3u8
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
-
 
 👶少儿动漫,#genre#
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
@@ -2728,7 +2702,7 @@ K望,https://alimov2.a.kwimgs.com/upic/2022/05/29/07/BMjAyMjA1MjkwNzU4MDlfOTU2Mz
 下辈子不一定还能遇见你,https://alimov2.a.kwimgs.com/upic/2022/08/12/12/BMjAyMjA4MTIxMjI4NDFfOTU2MzA3MDg4XzgxNjIwNzczMjE0XzJfMw==_b_Bb9293e44928a67a8516143e41bb648f7.mp4?clientCacheKey=3xm7qkzt7wxwx2u_b.mp4&tt=b&di=24710b75&bp=10000
 九月九的酒,https://alimov2.a.kwimgs.com/upic/2022/08/13/05/BMjAyMjA4MTMwNTI5NDNfOTU2MzA3MDg4XzgxNjgyMzI0MTA0XzJfMw==_b_B47520b4e5303dd59437f957e1cf4c9e3.mp4?clientCacheKey=3xhgeusyevt5a86_b.mp4&tt=b&di=24710b75&bp=10000
 
-🔞VIP频道_1024,#genre#
+🔞VIP频道_10086,#genre#
 惊艳台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
 潘多拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
 香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
@@ -2863,7 +2837,7 @@ K望,https://alimov2.a.kwimgs.com/upic/2022/05/29/07/BMjAyMjA1MjkwNzU4MDlfOTU2Mz
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
 松視2台,https://z100.cdn2020.com/video/m3u8/2020/07/23/7029e94d/index.m3u8
 
-🔞🈲古装三.级_1024,#genre#
+🔞🈲古装三.级_10086,#genre#
 青楼名女支之李香君,https://v6.jindangao.com/hj/hj2/hj21/10/hls/index.m3u8
 人细鬼大,https://v6.jindangao.com/hj/hj2/hj22/10/hls/index.m3u8
 兽生秀惑之赤果生游戏2000,https://v6.jindangao.com/hj/hj2/hj23/25/hls/index.m3u8
@@ -3143,7 +3117,7 @@ K望,https://alimov2.a.kwimgs.com/upic/2022/05/29/07/BMjAyMjA1MjkwNzU4MDlfOTU2Mz
 三从四德,https://ckzy1com.com/20230220/hWEnD2oe/index.m3u8
 风骚老板娘763,https://ckzy1com.com/20230425/zWmzmG74/index.m3u8
 
-🔞日系無碼_1024,#genre#
+🔞日系無碼_10086,#genre#
 在职场被各种潜规则的美女OL-藤森里穗,https://t21.cdn2020.com/video/m3u8/2023/02/13/79ebfeaa/index.m3u8
 温泉老板娘吉川恋的特殊服务,https://t21.cdn2020.com/video/m3u8/2023/01/31/2be430ca/index.m3u8
 魔女吉川莲的一本道下马作,https://t21.cdn2020.com/video/m3u8/2023/01/31/435c18b0/index.m3u8
