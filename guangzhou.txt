@@ -42,7 +42,9 @@
 「电信」生活,http://www.kitcc.cn:8887/rtp/239.77.1.131:5146
 「电信」文旅,http://www.kitcc.cn:8887/rtp/239.77.1.132:5146
 
-
+凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 
  👉九点半👉,#genre#
 ⑥春盈天下专线,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
