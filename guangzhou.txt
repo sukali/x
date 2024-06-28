@@ -45,7 +45,7 @@
 「电信」综合,http://www.kitcc.cn:8887/rtp/239.77.1.130:5146
 「电信」生活,http://www.kitcc.cn:8887/rtp/239.77.1.131:5146
 「电信」文旅,http://www.kitcc.cn:8887/rtp/239.77.1.132:5146
-
+經典邵氏台,p3p://173.208.176.178:19806/665c04af000943119b570e90404a31c1
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
