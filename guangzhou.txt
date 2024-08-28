@@ -44,8 +44,6 @@
 
 邵氏影院,https://www.goodiptv.club/douyu/4246519
 邵氏影院,http://lxajh.top/tv/douyu.php?id=4246519
-重温经典1,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-重温经典2,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000635
 
 凤凰中文 HD,http://116.162.6.192:8088/qitv.fengshows.cn/live/0701pcc48.flv
 凤凰中文 HD,http://116.162.6.191:8088/qitv.fengshows.cn/live/0701pcc48.flv
@@ -68,163 +66,6 @@
 @老澳21:32播放,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
 @老澳21:32开始,https://aa.jmied.com/aa/aa.flv?auth_key=1661059701-0-0-18edbe2ace26cc97f5e86aaee951497e
 @老澳21:32官方,https://vdm6-ali.oujinghb.com/live/2032-2.flv
-
-省港澳闽,#genre#
-广东珠江台,http://rfx2018.55555.io:2345/udp/239.77.0.1:5146#http://rfx2018.55555.io:2345/udp/239.77.0.114:5146
-广东体育台,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8#http://rfx2018.55555.io:2345/udp/239.77.0.112:5146
-随机换源台,http://39.82.4.160:1977/live/geturl.php
-随机换流台,http://182.16.60.201:1977//live/geturl.php
-中天新闻台,http://107.174.133.144:2095/live.m3u8?c=7
-中天新闻备,http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
-中天新闻测,http://startv365.com:80/live/9794783213/6955630461/5553.m3u8
-有线新闻台,http://119.23.61.191:8088/HK/hoy78/hls.m3u8
-无线新闻台,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
-无线新闻备,http://113.74.13.96:63023/stream/channelid/2121222530?ticket=28b79930ed7195e29dd946e9c30775569b3f7364&profile=pass
-Now新闻台,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
-Now新闻备,http://106.14.34.43:9092/HK/nowxw/hls.m3u8
-无线翡翠台,https://ali.hlspull.yximgs.com/live/haiou999jade_twn.flv
-无线财经台,https://ali.hlspull.yximgs.com/live/haiou999tvbcaijing_twn.flv
-无线财经备,http://113.74.13.96:63023/stream/channelid/579886840?ticket=9806d4fb099c88109bdb88e29cdacab8cecb3677&profile=pass
-有线综合台,http://119.23.61.191:8088/HK/hoy77/hls.m3u8
-有线赛马台,http://58.87.99.251:8090/HK/yx18/hls.m3u8
-无线明珠台,http://113.74.13.96:63023/stream/channelid/1458762215?ticket=d95bf479a8afc491d71a23d181de61946a021015&profile=pass
-无线J2台,https://ali.hlspull.yximgs.com/live/haiou999j2_twn.flv
-无线J2备,http://113.74.13.96:63023/stream/channelid/1325481352?ticket=1db38ca30f1a21900723f3916534c18dee546e89&profile=pass
-VIUTV台粤,http://118.178.231.50:9696/HK/viu.live.ts
-VIUTV台英,http://118.178.231.50:9696/HK/viu6.live.ts
-Now英超台,http://220.246.126.166:9981/stream/channel/dc8db4742fcbe0da67fa417159b6fadd
-Now英超备,http://106.14.34.43:9092/HK/nowty2/hls.m3u8
-Now体育台,http://58.87.99.251:8090/HK1/nowbaogu/hls.m3u8
-Now体育备,http://106.14.34.43:9092/HK/nowty/hls.m3u8
-无线星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-无线娱乐台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-无线功夫台,https://ali.hlspull.yximgs.com/live/haiou999tvbyzwx.flv#https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-无线经典台,https://epg.pw/stream/88ee4b87004cdda8d42ab7ae30ccefe560f7929bae745d45eaf3ea2979dab62a.ctv
-华丽翡翠台,https://epg.pw/stream/ed3cb928cc3a187bd6456c7562f0f0a99c08f065b5177134aee9931518cc61f5.ctv
-天映频道,https://epg.pw/stream/6ce6153c50095866e921e3584843aa8086ed10a8911a1793d641b281541db5c6.ctv
-天映经典,http://171.108.239.95:8181/tsfile/live/1009_1.m3u8#https://epg.pw/stream/ba7e70ae3a3343465a3a47ba8af6a94626987d818346b9329d5eb5abb46b01b1.ctv
-RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
-RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-凤凰资讯台,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰卫视台,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰香港台,http://107.174.133.144:2095/live.m3u8?c=1
-香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-澳门莲花台,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
-澳视澳门台,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-澳视卫星台,http://61.244.22.5/ch3/ch3.live/index.m3u8
-澳视综艺台,http://61.244.22.5/ch6/hd_ch6.live/playlist.m3u8
-澳视葡文台,http://61.244.22.5/ch2/ch2.live/index.m3u8
-澳门卫视台,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
-澳门体育台,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
-澳门资讯台,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
-耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-东森经财台,http://107.174.133.144:2095/live.m3u8?c=14
-中天亚洲台,http://startv365.com:80/live/9794783213/6955630461/5555.m3u8
-TVBS新闻台,http://107.174.133.144:2095/live.m3u8?c=11
-东森新闻台,http://107.174.133.144:2095/live.m3u8?c=6
-三立新闻台,http://107.174.133.144:2095/live.m3u8?c=12
-三立LIVE台,http://107.174.133.144:2095/live.m3u8?c=3
-中天新闻2,http://107.174.133.144:2095/live.m3u8?c=10
-寰宇新闻台,http://107.174.133.144:2095/live.m3u8?c=4
-闽镜新闻台,http://107.174.133.144:2095/live.m3u8?c=5
-中视新闻台,http://107.174.133.144:2095/live.m3u8?c=2
-华视新闻台,http://107.174.133.144:2095/live.m3u8?c=13
-公视新闻台,http://107.174.133.144:2095/live.m3u8?c=8
-民视新闻台,http://107.174.133.144:2095/live.m3u8?c=8
-台视新闻台,http://154.yfvodcdn.com:8080/live/tyxltsxw3/hls.m3u8
-民视闽南台,rtmp://f13h.mine.nu/sat/tv051
-中视闽南台,rtmp://f13h.mine.nu/sat/tv091
-台视闽南台,rtmp://f13h.mine.nu/sat/tv071
-华视闽南台,rtmp://f13h.mine.nu/sat/tv111
-东森超视台,rtmp://f13h.mine.nu/sat/tv331
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-纬来日本台,rtmp://f13h.mine.nu/sat/tv771
-纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
-纬来体育台,rtmp://f13h.mine.nu/sat/tv721
-ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
-
-港澳闽备,#genre#
-中天新闻国,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
-NOW新闻台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
-HOY新闻台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337#http://8.134.88.173:9092/HK/hoy78/hls.m3u8#http://223.71.206.22:30080/HK/hoy78/hls.m3u8
-TVB新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
-TVB财经台,http://live.cooltv.top/tv/tvb.php?id=2&hq
-TVB翡  台,http://120.238.13.198:8000/hls/21/index.m3u8
-TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB娱乐台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-TVB功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-HOY综合台,http://8.134.88.173:9092/HK/hoy77/hls.m3u8
-RTHK31台,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
-RTHK32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
-RTHK33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-RTHK34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-RTHK35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-天  频道台国,http://210.210.155.37/dr9445/h/h14/01.m3u8
-凤凰资讯高清,http://113.64.145.84:8081/hls/36/index.m3u8
-凤凰卫视高清,http://113.64.145.84:8081/hls/37/index.m3u8
-凤凰香港高清,http://113.64.145.84:8081/hls/38/index.m3u8
-香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-澳视莲花台,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
-澳视澳门台,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-澳视卫星台,http://61.244.22.5/ch3/ch3.live/index.m3u8
-澳视综艺台,http://61.244.22.5/ch6/hd_ch6.live/playlist.m3u8
-澳视葡文台,http://61.244.22.5/ch2/ch2.live/index.m3u8
-澳门卫视台,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
-澳门体育台,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
-澳门资讯台,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
-耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CGNTV台,http://live.cgtn.com/500/prog_index.m3u8#http://live.cgtn.com/1000/prog_index.m3u8
-EZTV1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
-民视闽南台,rtmp://f13h.mine.nu/sat/tv051
-中视闽南台,rtmp://f13h.mine.nu/sat/tv091
-台视闽南台,rtmp://f13h.mine.nu/sat/tv071
-华视闽南台,rtmp://f13h.mine.nu/sat/tv111
-东森超视台,rtmp://f13h.mine.nu/sat/tv331
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-纬来日本台,rtmp://f13h.mine.nu/sat/tv771
-纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
-纬来体育台,rtmp://f13h.mine.nu/sat/tv721
-ELEVEN1台,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
-经典功夫台,http://43.138.170.29:35455/yy/1355002394
-重温经典台,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-美亚电影粤,mitv://generationnexxxt.com:19806/ee16565eb5fe46be8d22cbbde1fa9fae
-HOY78台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
-视觉效果,#genre#
-3D1,https://vd3.bdstatic.com/mda-mfnc43q5ngnzua6p/sc/cae_h264/1624437508830556235/mda-mfnc43q5ngnzua6p.mp4
-3D2,https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
-3D3,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/1080p/cae_h264/1618549960/mda-mdfijn4crxseyky0.mp4
-3D4,https://vd2.bdstatic.com/mda-kmtfv6y5gctpa35w/sc/mda-kmtfv6y5gctpa35w.mp4
-3D5,https://vd3.bdstatic.com/mda-kksk814vwc1m06av/sc/mda-kksk814vwc1m06av.mp4
-3D大片,https://vd2.bdstatic.com/mda-ki2cvyhz79rw40wg/v1-cae/sc/mda-ki2cvyhz79rw40wg.mp4
-3D电影,https://vd3.bdstatic.com/mda-kj0kfvyty9dk9nk0/v1-cae/sc/mda-kj0kfvyty9dk9nk0.mp4
-3D裸眼,https://vd2.bdstatic.com/mda-kka520dkkf8mrujz/sc/mda-kka520dkkf8mrujz.mp4
-3D裸眼2,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/sc/mda-mdfijn4crxseyky0.mp4
-长津湖,https://vd3.bdstatic.com/mda-mgq3kek3j2cr07w7/sc/cae_h264_nowatermark/1627180666806871183/mda-mgq3kek3j2cr07w7.mp4
-终结者,https://vd3.bdstatic.com/mda-jk1hupziz0524rq1/mda-jk1hupziz0524rq1.mp4
-3D投影1,https://vd4.bdstatic.com/mda-ncuizu4wfrjswzxp/720p/h264_delogo/1648560283895563574/mda-ncuizu4wfrjswzxp.mp4
-3D投影2,https://vd4.bdstatic.com/mda-ncuiyrw7qj9x5w3z/720p/h264_delogo/1648560203494563586/mda-ncuiyrw7qj9x5w3z.mp4
-功夫之王,https://vdse.bdstatic.com//92bd4a8082ab3cb7e96e1d852bc0d5f4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-05-07T19%3A35%3A37Z%2F-1%2Fhost%2Fbac03dc21a0ea989035da20433039cdcc82efc3a5773df7c4dbcf4d6b6d62443
-龙腾虎跃,https://vd2.bdstatic.com/mda-nb48vhn84vq41zf3/1080p/cae_h264_delogo/1644042257215201305/mda-nb48vhn84vq41zf3.mp4
-视觉艺术,https://vd2.bdstatic.com/mda-ncj8cwfhcr4zyrfd/sc/cae_h264_delogo/1647755833056552862/mda-ncj8cwfhcr4zyrfd.mp4
-东京-新宿,https://vd4.bdstatic.com/mda-na6metzpvv5xqh6h/1080p/cae_h264/1641623274673701803/mda-na6metzpvv5xqh6h.mp4
-生物多   性,https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
-艺术科技感,https://vd3.bdstatic.com/mda-ncrw9pciw60jymyd/sc/cae_h264_delogo/1648329992682771558/mda-ncrw9pciw60jymyd.mp4
-变形金刚1,https://vd3.bdstatic.com/mda-khb9j4g6c25biyqj/v1-cae/1080p/mda-khb9j4g6c25biyqj.mp4
-变形金刚UHD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/720p/h264_delogo/1649341231263414752/mda-nd6k8tnavw6sj0a5.mp4
-变形金刚LD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/1080p/cae_h264_delogo/1649341416696755483/mda-nd6k8tnavw6sj0a5.mp4
-变形金刚2K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/qhd/cae_h264_delogo/1649341416716222901/mda-nd6k8tnavw6sj0a5.mp4
-变形金刚4K,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/uhd/cae_h264_delogo/1649341416749683469/mda-nd6k8tnavw6sj0a5.mp4
-X战警:黑凤凰,https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4bnmfux8.mp4
-Dreamcatcher,https://vd3.bdstatic.com/mda-mbiqgzsnfeyv74y6/v1-cae/1080p/mda-mbiqgzsnfeyv74y6.mp4
 
 
 ﻿移动频道,#genre#
@@ -590,6 +431,7 @@ CCTV-5+ HD,http://cd.sy012.com:4000/rtp/232.0.0.92:8502#http://cd.sy012.com:4000
 神雕  侣粤23,https://vip.lz-cdn8.com/20220628/15537_f93a6d71/index.m3u8
 神雕  侣粤24,https://vip.lz-cdn8.com/20220629/15655_9a269493/index.m3u8
 神雕  侣粤25,https://vip.lz-cdn8.com/20220628/15539_54f941d8/index.m3u8
+
 
 👶少儿动漫,#genre#
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
@@ -1534,6 +1376,7 @@ CCTV-5+ HD,http://cd.sy012.com:4000/rtp/232.0.0.92:8502#http://cd.sy012.com:4000
 熊熊乐园50,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f93cb9edd30544b78797b6dce897dbdc/1200.m3u8
 熊熊乐园51,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7fc7a246576744e1b032622846c1fd43/1200.m3u8
 熊熊乐园52,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/23d304c091184090b3b6ceef8822a273/1200.m3u8
+
 
 🧜‍♀️广场舞,#genre#
 看花不是花,https://alimov2.a.kwimgs.com/upic/2023/01/20/19/BMjAyMzAxMjAxOTU1NTdfOTU2MzA3MDg4Xzk0MTAyMDU3ODM3XzJfMw==_b_B1f0892e3e65467590dd31879d1991b0e.mp4?clientCacheKey=3xwqt7nphbwb7g4_b.mp4&tt=b&di=2471c4bc&bp=10000
